@@ -49,12 +49,17 @@
     "props.id": {
       "access": "SYSTEM",
       "persistent": false
+    },
+    "props.lastActivity": {
+      "access": "SYSTEM",
+      "persistent": false
     }
   },
   "props": {
+    "address": "127.0.0.1",
     "device": {},
     "geolocation": {},
     "locale": "en-US",
-    "timeZoneId": "America/Los_Angeles"
+    "timeZoneId": "America/Denver"
   }
 }
